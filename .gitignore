@@ -1,0 +1,7 @@
+work/
+*.p
+*.zip
+*.tzx
+*.tap
+.DS_Store
+Thumbs.db
